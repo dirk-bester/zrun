@@ -1,2 +1,2 @@
 # zrun
-An FAQ wiki
+An FAQ wiki for a Zrun alliance
